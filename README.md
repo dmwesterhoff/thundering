@@ -1,4 +1,4 @@
-![header](/static/thundering-header.png)
+![header](/Example/Example/Assets.xcassets/thundering-header.png)
 
 A cross platform way to use usbmuxd to service a TCP tunnel for streaming data over.
 Written in Swift 5, all credit to https://github.com/jensmeder/DarkLightning for original
