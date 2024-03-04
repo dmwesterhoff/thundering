@@ -8,13 +8,16 @@ let package = Package(
     products: [
         .library(
             name: "Thundering",
-            targets: ["Thundering"]),
+            targets: ["Thundering"])
+    ],
+    dependencies: [
+        .package(url: "git@github.com:apple/swift-docc-plugin.git", branch: "main")
     ],
     targets: [
         .target(
             name: "Thundering"),
         .testTarget(
             name: "ThunderingTests",
-            dependencies: ["Thundering"]),
+            dependencies: ["Thundering"])
     ]
 )
