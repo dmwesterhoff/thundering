@@ -1,7 +1,7 @@
 ![header](/Example/Example/Assets.xcassets/thundering-header.png)
 
 [![build](https://github.com/dmwesterhoff/thundering/actions/workflows/build.yml/badge.svg)](https://github.com/dmwesterhoff/thundering/actions/workflows/build.yml)
-![swift](https://img.shields.io/badge/Swift-5-orange.svg)
+![swift](https://img.shields.io/badge/swift-5-orange.svg)
 
 ---
 
