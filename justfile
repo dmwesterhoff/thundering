@@ -5,5 +5,5 @@ docs:
   --target Thundering \
   --output-path ./docs \
   --transform-for-static-hosting \
-  --hosting-base-path foobar
+  --hosting-base-path thundering
 
